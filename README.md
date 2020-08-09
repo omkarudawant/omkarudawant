@@ -11,10 +11,12 @@ Apart from this, I am a foodie and I love exploring new places.
 
 [<img align="left" alt="omkarudawant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="omkarudawant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="omkarudawant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 
 [instagram]: https://www.instagram.com/i.am.omcar/
 [linkedin]: https://linkedin.com/in/omkarudawant
-  
+[medium]: https://medium.com/@omkarudawant97
 
 
 <!--
