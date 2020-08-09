@@ -1,4 +1,4 @@
-## Hi there,  👋 This is Omkar Udawant
+## Hi there !  👋 This is Omkar Udawant
 
 Machine Learning Fanboy, Coding Enthusiast, and interested in Deep Learning and it's applications in Computer Vision and Natural Language Processing. 
 
@@ -16,7 +16,7 @@ Apart from this, I am a foodie and I love exploring new places.
 
 [instagram]: https://www.instagram.com/i.am.omcar/
 [linkedin]: https://linkedin.com/in/omkarudawant
-[medium]: https://medium.com/@omkarudawant97
+[medium]: https://medium.com/@omkarudawant
 
 
 <!--
