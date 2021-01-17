@@ -2,7 +2,7 @@
 
 Machine Learning Fanboy, Coding Enthusiast, and interested in Deep Learning and it's applications in Computer Vision and Natural Language Processing. 
 
-With more than 2 years of experience under my belt, I've tackled many data engineering and data science challenges, and I've grown more as a *Machine Learning Engineer* and I am on a constant lookout for opportunities to learn, grow, and challenge myself to solve real-world problems, faced in the industry and day-to-day life.
+With more than 2 years of experience under my belt, I've tackled many data engineering and data science challenges, and I've grown more as a **Machine Learning Engineer** and I am on a constant lookout for opportunities to learn, grow, and challenge myself to solve real-world problems, faced in the industry and day-to-day life.
 
 Apart from this, I am a foodie and I love exploring new places.
 
