@@ -19,7 +19,8 @@ Apart from this, I am a foodie and I love exploring new places.
 
 [instagram]: https://www.instagram.com/omcarudawant/
 [linkedin]: https://linkedin.com/in/omkarudawant
-[medium]: https://medium.com/@omkarudawant
+[medium]: https://medium.com/@omkarudawant 
+<br>
 
 
 
