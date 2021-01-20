@@ -7,13 +7,14 @@ With more than 2 years of experience under my belt, I've tackled many data engin
 Apart from this, I am a foodie and I love exploring new places.
 
 🔭 I’m currently working on [CutoML](https://github.com/omkarudawant/CutoML)
-<br>
+
+
 
 📫 Connect with me: 
 
-[<img align="left" alt="omkarudawant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="omkarudawant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="omkarudawant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="omkarudawant | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="omkarudawant | Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="omkarudawant | Medium" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
 [instagram]: https://www.instagram.com/omcarudawant/
@@ -21,16 +22,12 @@ Apart from this, I am a foodie and I love exploring new places.
 [medium]: https://medium.com/@omkarudawant
 
 
-<br>
 
-<center>
-  
 [![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkarudawant&theme=blue-green)](https://github.com/omkarudawant/github-readme-stats)
 
-<br>
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarudawant&theme=blue-green)
-</center>
+
 
 <!--
 **omkarudawant/omkarudawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
