@@ -19,9 +19,13 @@ Apart from this, I am a foodie and I love exploring new places.
 [instagram]: https://www.instagram.com/omcarudawant/
 [linkedin]: https://linkedin.com/in/omkarudawant
 [medium]: https://medium.com/@omkarudawant
+
 <br>
+
 [![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkarudawant&theme=blue-green)](https://github.com/omkarudawant/github-readme-stats)
+
 <br>
+
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarudawant&theme=blue-green)
 
 <!--
