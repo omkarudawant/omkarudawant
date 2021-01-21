@@ -6,7 +6,7 @@ With more than 2 years of experience under my belt, I've tackled many data engin
 
 Apart from this, I am a foodie and I love exploring new places.
 
-🔭 I’m currently working on [CutoML](https://github.com/omkarudawant/CutoML)
+🔭 I’m currently working on **[CutoML](https://github.com/omkarudawant/CutoML)**
 
 
 
