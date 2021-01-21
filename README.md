@@ -6,9 +6,6 @@ With about 3 years of experience under my belt, I've tackled many data engineeri
 
 Apart from this, I am a foodie and I love exploring new places.
 
-🔭 I’m currently working on **[CutoML](https://github.com/omkarudawant/CutoML)**
-
-
 
 📫 Connect with me: 
 
@@ -22,6 +19,13 @@ Apart from this, I am a foodie and I love exploring new places.
 [medium]: https://medium.com/@omkarudawant 
 <br>
 
+🔭 I’m currently working on **[CutoML](https://github.com/omkarudawant/CutoML)**
+
+<!--
+**omkarudawant/omkarudawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<br>
+
 
 
 [![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkarudawant&theme=blue-green)](https://github.com/omkarudawant/github-readme-stats)
@@ -29,9 +33,6 @@ Apart from this, I am a foodie and I love exploring new places.
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarudawant&theme=blue-green)
 
-
-<!--
-**omkarudawant/omkarudawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
